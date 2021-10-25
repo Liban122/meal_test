@@ -1,0 +1,4 @@
+#Mon Oct 25 08:56:03 CEST 2021
+base.0=/Users/teamdomethics/dev/meal_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

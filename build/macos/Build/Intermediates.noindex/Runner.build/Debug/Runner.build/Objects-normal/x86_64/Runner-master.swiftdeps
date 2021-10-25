@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1635103684, 102444171]
+build_end_time: [1635103692, 10642051]
+inputs:
+  "/Users/teamdomethics/dev/meal_test/macos/Flutter/GeneratedPluginRegistrant.swift": [1635103662, 312703132]
+  "/Users/teamdomethics/dev/meal_test/macos/Runner/AppDelegate.swift": [1634736317, 851468086]
+  "/Users/teamdomethics/dev/meal_test/macos/Runner/MainFlutterWindow.swift": [1634736317, 855517864]
