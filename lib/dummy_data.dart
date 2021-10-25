@@ -7,17 +7,17 @@ const DUMMY_CATEGORIES = const [
   Category(
     id: 'c1',
     title: 'Italian',
-    color: Colors.brown,
+    color: Colors.purple,
   ),
   Category(
     id: 'c2',
     title: 'Somalian',
-    color: Colors.grey,
+    color: Colors.red,
   ),
   Category(
     id: 'c3',
     title: 'Hamburgers',
-    color: Colors.black,
+    color: Colors.orange,
   ),
   Category(
     id: 'c4',
